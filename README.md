@@ -1,4 +1,4 @@
-Speech AI App (App dosen work well due to change in OpenAi's changes to Api's and Pricing )
+Speech AI App (App Does Not work well due to change in OpenAi's changes to Api's and Pricing )
 
 A Flutter application that uses OpenAI's API to generate images using DALL·E and respond to prompts using ChatGPT-3.5 Turbo. 
 The app is controlled via speech, providing a seamless and interactive user experience.
