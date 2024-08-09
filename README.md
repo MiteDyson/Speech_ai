@@ -15,6 +15,7 @@ AI Conversations: Get AI-driven responses to your prompts using ChatGPT-3.5 Turb
 Smooth Animations: Leverage animate_do for smooth and engaging UI animations.
 
 
+
 Prerequisites
 
 Ensure you have the following tools and packages installed:
@@ -24,6 +25,8 @@ Flutter
 Dart
 
 An OpenAI API key. You can obtain it by signing up at OpenAI. [Found](https://openai.com/api/)
+
+
 
 Installation
 
@@ -45,6 +48,8 @@ const openAIAPIKey = 'API KEY HERE ';
 
 // add your own api key before running the project 
 
+
+
 Flutter Packages Used
 
 cupertino_icons: ^1.0.2: For iOS-style icons.
@@ -57,6 +62,8 @@ flutter_tts: ^3.6.3: For converting text to speech.
 
 animate_do: ^3.0.2: For animations within the app.
 
+
+
 Usage
 
 To Start the App
@@ -65,11 +72,15 @@ Run the app on an emulator or a physical device:
 
 flutter run
 
+
+
 Interact with the AI:
 
 Use the microphone button to speak your prompt.
 
 The app will convert your speech to text and either generate an image or a response using OpenAI's API.
+
+
 
 Screens: 
 
@@ -86,6 +97,9 @@ Image Generated Screen:
 
 
 Acknowledgements
+
 OpenAI for their powerful AI models.
+
 The Flutter community for the extensive documentation and support.
+
 Youtuber Rivaan ranawat for providing a [Great Tutorial](https://youtu.be/Q_pz4xFow3Q?si=hCkYFwpOrvhGUpB2)
