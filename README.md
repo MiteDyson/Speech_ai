@@ -19,6 +19,7 @@ Installation
 Clone the Repository:
 
 https://github.com/MiteDyson/Speech_ai
+
 cd speech_ai_app
 
 Install Dependencies:
@@ -58,4 +59,4 @@ Video Demo
 Acknowledgements
 OpenAI for their powerful AI models.
 The Flutter community for the extensive documentation and support.
-Youtuber Rivaan ranawat for providing a [Great Tutorial][(https://youtu.be/Q_pz4xFow3Q?si=hCkYFwpOrvhGUpB2)]
+Youtuber Rivaan ranawat for providing a [Great Tutorial](https://youtu.be/Q_pz4xFow3Q?si=hCkYFwpOrvhGUpB2)
