@@ -24,7 +24,7 @@ Flutter
 
 Dart
 
-An OpenAI API key. You can obtain it by signing up at OpenAI. [Found](https://openai.com/api/)
+An OpenAI API key. You can obtain it by signing up at OpenAI. [Found Here](https://openai.com/api/)
 
 
 
