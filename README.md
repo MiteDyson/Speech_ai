@@ -1,6 +1,3 @@
-Here's an improved and well-formatted README for your Speech AI App:
-
----
 
 # Speech AI App
 
